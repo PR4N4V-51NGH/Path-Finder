@@ -1,7 +1,7 @@
 # MyPathFinder
 
 created a website to stimulate and visualize graph algorithms  
-link: https://path-finder-v2.netlify.app/
+link: https://pr4n4v-51ngh.github.io/Path-Finder/
 
 # Initial page
 
