@@ -1,7 +1,7 @@
 # MyPathFinder
 
 created a website to stimulate and visualize graph algorithms  
-link: [click here] (https://unnatkr.github.io/PathFinder/)
+link: [here](https://unnatkr.github.io/PathFinder/)
 
 # Initial page
 
